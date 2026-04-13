@@ -5,7 +5,7 @@
 ![Python](https://img.shields.io/badge/Python-3.13.7+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Batch](https://img.shields.io/badge/Language-Batch-blue?style=for-the-badge&logo=windows)
 ![Version](https://img.shields.io/badge/Version-2.0-FF6B6B?style=for-the-badge)
-[![Download](https://img.shields.io/badge/DOWNLOAD_ZIP-v1.0.1-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kafnik/Batch-file/releases/tag/v.2.0)
+[![Download](https://img.shields.io/badge/DOWNLOAD_ZIP-v2.0-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kafnik/Batch-file/releases/tag/v.2.0)
 
 </div>
 
